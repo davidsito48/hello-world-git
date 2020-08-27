@@ -24,7 +24,7 @@ Underline 2
 - [Este es un link Markdown](https://www.google.com)
 
 # Imagenes
-![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo GitHub](https://icon-library.com/images/img-icon/img-icon-1.jpg)
 
 # Code Snippets
 ```JSON
